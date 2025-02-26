@@ -1,0 +1,32 @@
+.stack {
+    margin-top: 30px;
+}
+
+.stack__item {
+    padding: 15px;
+}
+
+.item__text {
+    margin: 10px;
+}
+
+.item__container {
+    margin-top: 25px;
+    display: flex;
+}
+
+.gitlab {
+    color: blue;
+}
+
+.npm {
+    color: green
+}
+
+.mac{
+    color: gray
+}
+
+.win {
+    color: red;
+}
